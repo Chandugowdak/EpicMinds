@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 node_modules
+=======
+node_modules
+dist
+.env
+.vscode
+.DS_Store
+.idea
+*.log
+>>>>>>> fdfbb7b598527e2c3a0014643b7027a1e88fbef2
